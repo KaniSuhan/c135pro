@@ -1,0 +1,26 @@
+.fathima{
+width: 100%;
+font-size: 25px;
+margin: 0px;
+}
+
+body{
+background-size: cover;
+}
+
+.footer{
+    position: fixed;
+    bottom:0px;
+    text-align: center;
+    background-color: aqua;
+    color:brown;
+    width: 100%;
+    line-height:3;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 80px;
+}
